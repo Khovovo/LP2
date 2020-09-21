@@ -1,0 +1,10 @@
+C:\Users\Khovovo\source\repos\Volume Do Cilindro\bin\Debug\Volume Do Cilindro.exe.config
+C:\Users\Khovovo\source\repos\Volume Do Cilindro\bin\Debug\Volume Do Cilindro.exe
+C:\Users\Khovovo\source\repos\Volume Do Cilindro\bin\Debug\Volume Do Cilindro.pdb
+C:\Users\Khovovo\source\repos\Volume Do Cilindro\obj\Debug\Volume Do Cilindro.csprojAssemblyReference.cache
+C:\Users\Khovovo\source\repos\Volume Do Cilindro\obj\Debug\Volume_Do_Cilindro.Form1.resources
+C:\Users\Khovovo\source\repos\Volume Do Cilindro\obj\Debug\Volume_Do_Cilindro.Properties.Resources.resources
+C:\Users\Khovovo\source\repos\Volume Do Cilindro\obj\Debug\Volume Do Cilindro.csproj.GenerateResource.cache
+C:\Users\Khovovo\source\repos\Volume Do Cilindro\obj\Debug\Volume Do Cilindro.csproj.CoreCompileInputs.cache
+C:\Users\Khovovo\source\repos\Volume Do Cilindro\obj\Debug\Volume Do Cilindro.exe
+C:\Users\Khovovo\source\repos\Volume Do Cilindro\obj\Debug\Volume Do Cilindro.pdb
