@@ -1,0 +1,10 @@
+C:\Users\Khovovo\source\repos\ATIVIDADE5\obj\Debug\ATIVIDADE5.csprojAssemblyReference.cache
+C:\Users\Khovovo\source\repos\ATIVIDADE5\obj\Debug\ATIVIDADE5.Form1.resources
+C:\Users\Khovovo\source\repos\ATIVIDADE5\obj\Debug\ATIVIDADE5.Properties.Resources.resources
+C:\Users\Khovovo\source\repos\ATIVIDADE5\obj\Debug\ATIVIDADE5.csproj.GenerateResource.cache
+C:\Users\Khovovo\source\repos\ATIVIDADE5\obj\Debug\ATIVIDADE5.csproj.CoreCompileInputs.cache
+C:\Users\Khovovo\source\repos\ATIVIDADE5\bin\Debug\ATIVIDADE5.exe.config
+C:\Users\Khovovo\source\repos\ATIVIDADE5\bin\Debug\ATIVIDADE5.exe
+C:\Users\Khovovo\source\repos\ATIVIDADE5\bin\Debug\ATIVIDADE5.pdb
+C:\Users\Khovovo\source\repos\ATIVIDADE5\obj\Debug\ATIVIDADE5.exe
+C:\Users\Khovovo\source\repos\ATIVIDADE5\obj\Debug\ATIVIDADE5.pdb
