@@ -1,0 +1,14 @@
+C:\Users\Khovovo\source\repos\ATIVIDADE6\bin\Debug\ATIVIDADE6.exe.config
+C:\Users\Khovovo\source\repos\ATIVIDADE6\bin\Debug\ATIVIDADE6.exe
+C:\Users\Khovovo\source\repos\ATIVIDADE6\bin\Debug\ATIVIDADE6.pdb
+C:\Users\Khovovo\source\repos\ATIVIDADE6\obj\Debug\ATIVIDADE6.csprojAssemblyReference.cache
+C:\Users\Khovovo\source\repos\ATIVIDADE6\obj\Debug\ATIVIDADE6.frmPrincipal.resources
+C:\Users\Khovovo\source\repos\ATIVIDADE6\obj\Debug\ATIVIDADE6.Properties.Resources.resources
+C:\Users\Khovovo\source\repos\ATIVIDADE6\obj\Debug\ATIVIDADE6.csproj.GenerateResource.cache
+C:\Users\Khovovo\source\repos\ATIVIDADE6\obj\Debug\ATIVIDADE6.csproj.CoreCompileInputs.cache
+C:\Users\Khovovo\source\repos\ATIVIDADE6\obj\Debug\ATIVIDADE6.exe
+C:\Users\Khovovo\source\repos\ATIVIDADE6\obj\Debug\ATIVIDADE6.pdb
+C:\Users\Khovovo\source\repos\ATIVIDADE6\obj\Debug\ATIVIDADE6.frmExercicio2.resources
+C:\Users\Khovovo\source\repos\ATIVIDADE6\obj\Debug\ATIVIDADE6.frmExercicio3.resources
+C:\Users\Khovovo\source\repos\ATIVIDADE6\obj\Debug\ATIVIDADE6.frmExercicio4.resources
+C:\Users\Khovovo\source\repos\ATIVIDADE6\obj\Debug\ATIVIDADE6.frmExercicio5.resources
