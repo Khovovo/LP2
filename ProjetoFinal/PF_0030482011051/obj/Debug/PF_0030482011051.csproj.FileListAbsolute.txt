@@ -1,0 +1,11 @@
+C:\Users\Khovovo\source\repos\PF_0030482011051\obj\Debug\PF_0030482011051.csprojAssemblyReference.cache
+C:\Users\Khovovo\source\repos\PF_0030482011051\obj\Debug\PF_0030482011051.FrmCidade.resources
+C:\Users\Khovovo\source\repos\PF_0030482011051\obj\Debug\PF_0030482011051.FrmPrincipal.resources
+C:\Users\Khovovo\source\repos\PF_0030482011051\obj\Debug\PF_0030482011051.Properties.Resources.resources
+C:\Users\Khovovo\source\repos\PF_0030482011051\obj\Debug\PF_0030482011051.csproj.GenerateResource.cache
+C:\Users\Khovovo\source\repos\PF_0030482011051\obj\Debug\PF_0030482011051.csproj.CoreCompileInputs.cache
+C:\Users\Khovovo\source\repos\PF_0030482011051\bin\Debug\PF_0030482011051.exe.config
+C:\Users\Khovovo\source\repos\PF_0030482011051\bin\Debug\PF_0030482011051.exe
+C:\Users\Khovovo\source\repos\PF_0030482011051\bin\Debug\PF_0030482011051.pdb
+C:\Users\Khovovo\source\repos\PF_0030482011051\obj\Debug\PF_0030482011051.exe
+C:\Users\Khovovo\source\repos\PF_0030482011051\obj\Debug\PF_0030482011051.pdb
